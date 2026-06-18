@@ -1,4 +1,5 @@
 public class Max_CheckMassive {
+    // Найти самое больше и самаое маленькое число в массиве
     public static void main(String[] args) {
         int [] numbers = {1, 5, 8, 9}; // создаем массив
         int max = numbers[0]; // Ставим в максимальное число первый элемент массива как стартовый
