@@ -1,4 +1,5 @@
 public class Palindrom {
+    // найти слово палиндром (зеркальное слово типа level - задом наперед читается также)
     public static void main(String[] args) {
         String word = "level";
         int left = 0; // левая буква по индексу ноль
