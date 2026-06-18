@@ -36,7 +36,7 @@ public class Theory {
         // Вырезание части строки (substring)
 
         String s3 = "hello";
-        System.out.println(s.substring(1,4)); // eni
+        System.out.println(s.substring(1,4)); // ell
         // Первый индекс УЧИТЫВАЕТСЯ, последний НЕ УЧИТЫВАЕТСЯ
 
         // String Builder
