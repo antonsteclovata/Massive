@@ -1,4 +1,5 @@
 public class SecondMax_CheckMassive {
+    // Найти масимальное число и второе максимальное число
     public static void main(String[] args) {
         int [] numbers = {2, 6, 5, 3, 8, 9};
         int max = numbers[0];
