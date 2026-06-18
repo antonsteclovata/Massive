@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+// Игра найди сокровище
 public class Games {
     public static void main(String[] args) {
         // Необходимый инструментал
